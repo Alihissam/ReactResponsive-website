@@ -1,0 +1,14 @@
+.icon{
+    display: flex;
+    font-size: 20px;
+}
+.icons{
+    display: flex;
+    text-align: center;
+}
+h4{
+    padding-top: 20px;
+}
+.second-main-section{
+    padding-top: 50px;
+}
